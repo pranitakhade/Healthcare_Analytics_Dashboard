@@ -32,6 +32,15 @@ The Healthcare Analytics Dashboard empowers healthcare professionals to:
 - Reduced data processing time by **15%** through streamlined data integration.
 - Enhanced patient care outcomes by **25%** with actionable insights.
 
+![Health](https://github.com/user-attachments/assets/28a0643d-b18f-4f08-a289-097dcb15ea30)
+
+![51](https://github.com/user-attachments/assets/5d18f5ee-52ff-462a-81a4-7d078633d5d7)
+
+![42](https://github.com/user-attachments/assets/f4c02da8-084e-4796-a41d-0da981b1f665)
+
+![43](https://github.com/user-attachments/assets/391023ae-7a10-4b3c-9b07-cd269b66c39a)
+
+
 ## Skills and Tools
 
 - **Tools:** Power BI, DAX (Data Analysis Expressions), ETL techniques.
